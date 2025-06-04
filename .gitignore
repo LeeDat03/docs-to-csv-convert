@@ -1,0 +1,12 @@
+node_modules/*
+
+# Files
+*.docx
+*.xlsx
+*.csv
+*.json
+*.txt
+*.pdf
+*.doc
+*.xls
+*.xlsx

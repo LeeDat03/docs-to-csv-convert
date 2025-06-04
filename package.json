@@ -1,0 +1,14 @@
+{
+  "name": "docs-to-csv-convert",
+  "version": "1.0.0",
+  "description": "Convert document questions to Excel format for Quizziz",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mammoth": "^1.9.1",
+    "xlsx": "^0.18.5"
+  }
+}
